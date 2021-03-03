@@ -1,5 +1,5 @@
 import React from "react";
-import logo from "./assets/rebel_alliance_logo.png";
+import logo from ".././assets/rebel_alliance_logo.png";
 import "./App.css";
 import { CharacterDetails } from "./character-details";
 
